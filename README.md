@@ -16,5 +16,6 @@
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [1174-sales-analysis-iii](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/1174-sales-analysis-iii) |
 <!---LeetCode Topics End-->
