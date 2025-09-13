@@ -46,16 +46,19 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -77,4 +80,5 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
