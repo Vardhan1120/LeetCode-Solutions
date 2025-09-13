@@ -45,14 +45,17 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -70,4 +73,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
