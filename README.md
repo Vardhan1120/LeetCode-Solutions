@@ -40,4 +40,16 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
