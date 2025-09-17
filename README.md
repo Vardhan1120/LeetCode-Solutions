@@ -26,6 +26,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
