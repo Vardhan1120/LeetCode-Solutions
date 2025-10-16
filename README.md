@@ -27,6 +27,7 @@
 | [0238-product-of-array-except-self](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0525-contiguous-array) |
+| [0792-binary-search](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
