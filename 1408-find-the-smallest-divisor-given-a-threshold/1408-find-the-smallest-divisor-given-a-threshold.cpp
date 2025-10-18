@@ -1,27 +1,23 @@
 class Solution {
 public:
-int sumbyd(vector<int> &arr , int div){
-    int sum=0;
+int sumby(vector<int>& arr, int div){
     int n=arr.size();
+    int sum=0;
     for(int i=0;i<n;i++){
-        sum+=ceil((double)(arr[i]) / (double)(div));
+        sum+=ceil((double)arr[i]/(double)div);
     }
     return sum;
 }
     int smallestDivisor(vector<int>& arr, int threshold) {
-        int n = arr.size();
+        int n=arr.size();
         if(n>threshold) return -1;
-        int low=1;
-        int high = *max_element(arr.begin(),arr.end());
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(sumbyd(arr , mid)<=threshold){
-                high=mid-1;
-            }
-            else{
-                low=mid+1;
-            }
+        int l=1;
+        int h=*max_element(arr.begin(),arr.end());
+        while(l<=h){
+            int mid=l+(h-l)/2;
+            if(sumby(arr, mid)<= threshold) h=mid-1;
+            else l=mid+1;
         }
-        return low;
+        return l;
     }
 };
