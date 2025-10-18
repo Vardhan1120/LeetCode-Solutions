@@ -30,6 +30,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0792-binary-search](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0162-find-peak-element](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
 | ------- |
