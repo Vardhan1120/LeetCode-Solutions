@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/0525-contiguous-array) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/Vardhan1120/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
